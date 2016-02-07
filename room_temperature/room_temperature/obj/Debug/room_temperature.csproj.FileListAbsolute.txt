@@ -1,0 +1,9 @@
+﻿C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\bin\Debug\room_temperature.exe.config
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\obj\Debug\room_temperature.exe
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\obj\Debug\room_temperature.pdb
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\bin\Debug\room_temperature.exe
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\bin\Debug\room_temperature.pdb
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\obj\Debug\room_temperature.csprojResolveAssemblyReference.cache
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\obj\Debug\room_temperature.Form1.resources
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\obj\Debug\room_temperature.Properties.Resources.resources
+C:\Users\user\PB\Dropbox\PB\室温IoT\ソフト\room_temperature\room_temperature\obj\Debug\room_temperature.csproj.GenerateResource.Cache
