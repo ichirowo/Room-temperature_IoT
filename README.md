@@ -1,6 +1,7 @@
 Room-temperature_IoT
 ============
-センサーで取得した温度湿度をWEB APIへ送り。
+Arduinoに付けたセンサーで取得した温度湿度をWEB APIへ送る。
+
 
 Arduino/Shituon_IoT/Shituon_IoT.ino
 -----------
